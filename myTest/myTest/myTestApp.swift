@@ -15,3 +15,8 @@ struct myTestApp: App {
         }
     }
 }
+
+struct MyWork {
+    var a = 5
+    var b = 6
+}
