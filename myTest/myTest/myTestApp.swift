@@ -20,3 +20,8 @@ struct MyWork {
     var a = 5
     var b = 6
 }
+
+struct MyThirdWork {
+    var c = 7
+    var d = 8
+}
